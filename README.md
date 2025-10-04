@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @praka80402(Prakash Kumar)
-- 👀 I’m full stack developer with 10+ years of experience
 - 📫 How to reach me(Prakashpandeyec032@gmail.com)
 
 <!---
